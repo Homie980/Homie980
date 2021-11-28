@@ -9,6 +9,9 @@
 - 📚 Currently Reading [Cloud Native Go](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797) and learning more about CI/CD
 - 💪🏼️ Looking to learn more technologies, That's my passion for development!
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdel-rahman-khaled-443935148/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.khaled.sobhy@gmail.com)
+
 ### Languages I use 📑
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

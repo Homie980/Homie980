@@ -1,7 +1,7 @@
 # Hey There it's Abdelrahman 👋️  
 - 🙋🏼‍♂️️ 23 Year old dude from Egypt
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### A Full Stack Web Developer 👨🏼‍💻
 - 💻️ I'm currently working with these technologies like **React, TypeScript, Next.js, Express.js, etc.**
